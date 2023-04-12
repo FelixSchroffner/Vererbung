@@ -1,3 +1,3 @@
 public interface MotorizedVehicle {
-    public void startEngine(); 
+    public void startEngine();
 }
